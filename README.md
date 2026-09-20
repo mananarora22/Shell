@@ -2,3 +2,4 @@
 Schell Scripts
 
 Push
+Fetch AND Pull
