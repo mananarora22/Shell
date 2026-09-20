@@ -5,3 +5,5 @@ Push
 Fetch AND Pull
 
 Test
+
+Sample pull
